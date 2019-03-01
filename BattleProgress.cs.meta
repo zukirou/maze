@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: d78451d62251ecb4cb0a86111e210bae
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerEnergyAmount: {instanceID: 0}
+  - fade: {instanceID: 0}
+  - nomalDamage: {fileID: 2100000, guid: 0d9c275e12e0c0f4d96bdbc4b825d62b, type: 2}
+  - middleDamage_Red: {fileID: 2100000, guid: 8ea93d7364f39fb4e984fe7fd09b4074, type: 2}
+  - middleDamage_Green: {fileID: 2100000, guid: bdae0b8cdc8f74c40807d7684deaa608,
+      type: 2}
+  - middleDamage_Blue: {fileID: 2100000, guid: 53195cd960b60ac4cba3f424f7b99b8d, type: 2}
+  - defaultMaterial: {fileID: 2100000, guid: dd2e920fad21f324db079c08cf568afb, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
